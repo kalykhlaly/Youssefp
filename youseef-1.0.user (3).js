@@ -14,43 +14,43 @@
   // بيانات العملاء
   const your_auto_fill_data = [
     {
-      Fname: "SEIF",
-      Lname: "MAHMOUD",
-      Gender: "Male",
-      Date_Of_Birth: "08/04/2024",
+      Fname: "Menna",
+      Lname: "Morsy",
+      Gender: "feMale",
+      Date_Of_Birth: "26/05/2007",
       Current_Nationality: "EGYPT",
-      Passport_Number: "A37524980",
-      Passport_Expiry_Date: "28/04/2031",
+      Passport_Number: "A40144541",
+      Passport_Expiry_Date: "22/12/2031",
       Contact_Code: "20",
-      Contact_number: "1012675019",
-      Email: "uuftumn@telegmail.com"
+      Contact_number: "1147017020",
+      Email: "kalykhlaly@gmail.com"
     },
     {
-      Fname: "WALEED",
-      Lname: "MAHMOUD",
-      Gender: "Male",
-      Date_Of_Birth: "23/12/1997",
+      Fname:"Abeer",
+      Lname: "Meshref",
+      Gender: "feMale",
+      Date_Of_Birth: "21/11/1978",
       Current_Nationality: "EGYPT",
-      Passport_Number: "A25581081",
+      Passport_Number: "A26994794",
       Passport_Expiry_Date: "14/09/2026",
       Contact_Code: "20",
-      Contact_number: "1094823795",
+      Contact_number: "1147017020",
       Email: "agsjtxoz@telegmail.com"
     },
     {
-      Fname: "SALMA",
-      Lname: "MOHAMED",
+      Fname: "Arwa",
+      Lname: "Morsy",
       Gender: "Female",
-      Date_Of_Birth: "29/12/1997",
+      Date_Of_Birth: "01/01/2005",
       Current_Nationality: "EGYPT",
-      Passport_Number: "A25017412",
-      Passport_Expiry_Date: "18/05/2026",
-      Contact_Code: "20",
-      Contact_number: "1094823795",
-      Email: "agsjtxoz@telegmail.com"
-},
-    {
-      Fname: "MOHAMED",
+      Passport_Number: "A26994759",
+      Passport_Expiry_Date: "03/03/2027",
+      Contact"20
+},Contact_number: "1147017020",
+    {Email:kalykhlaly@gmail.com 
+    
+    
+  Fname: "MOHAMED"
       Lname: "IBRAHIM",
       Gender: "Male",
       Date_Of_Birth: "22/03/2014",
